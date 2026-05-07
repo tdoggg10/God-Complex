@@ -2,7 +2,7 @@
 Ongoing research into a neural network which morphs the underlying rules of the universe in which it exists within.
 
 
-Current machine learning is gated by the very properties that made its inception possible: the underlying rules of our universe. I propose that, rather than embedding neural networks into simulated versions of our own mathematical universe, we instead allow the network to bend the very rules we find crutial to our existance to its own will; essentially, creating a neural network which, rather than updating weights, could instead fold the very reality of its mathematical existence to best fit the task. For example, if the task requires, the network could bend the fundamental law of distrubution, or perhaps integrate subtraction into multiplication. Additonally, the network would have full control over the very space in which its neurons are contained within; one task could yeild standard 3-dimensional geometry, and another could be optimized by stretching and curving the distance between neurons continuously, or perhaps something more novel.
+Current machine learning is gated by the very properties that made its inception possible: the underlying rules of our universe. I propose that, rather than embedding neural networks into simulated versions of our own mathematical universe, we instead allow the network to bend the very rules we find crutial to our existance to its own will; essentially, creating a neural network which, rather than updating weights, could instead fold the very reality of its mathematical existence to best fit the task. For example, if the task requires, the network could bend the fundamental law of distrubution, or perhaps integrate subtraction into multiplication. Additonally, the network would have full control over the very space in which its neurons are contained within; one task could yeild standard 3-dimensional geometry, while another optimized by stretching and curving the distance between neurons continuously, or perhaps something more novel.
 
 
 # Baseline Vaccum (Axiom 0)
@@ -12,14 +12,12 @@ To allow a network to control the very mathematical existence it is contained wi
 * Standard chain rule
 * Standard linear accumulation, geometric scaling, symmetry, and inversion
 
+In order to give the network control over these parameters, however, we must break down arithmatic into a universal, differential function.
+
+$$ \texttt{Output} = I( \theta) + \int_0^B \ mathcal{K}(A, t, \theta) dt$$ 
+
 # The Differential Substrate (Axiom 1)
-After defining the scope, the logical next step is to condense said scope into a fundamental equation. Every operation in this supposed universe can be reduced into a singluar transformation of two inputs through rule-space:
 
-$$y = \mathcal{T}_{out} \left( \Phi \left( \mathcal{T}_{in}(u), \mathcal{T}_{in}(v) \right) \right)$$
-
-Where  $u, v$ are the raw input signals, $ \mathcal{T}_{in}$ is the perception warp, $ \Phi$ is the interaction law, and $ \mathcal{T}_{out}$ is the maifestation warp.
-
-With the basis of the universe established, we must now 
 
 
 # Constraints
