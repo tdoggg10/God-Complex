@@ -13,9 +13,17 @@ To allow a network to control the very mathematical existence it is contained wi
 * Standard linear accumulation, geometric scaling, symmetry, and inversion
 
 # The Differential Substrate (Axiom 1)
-Our mathematics prevent the path which inputs take from effecting the output; addition is cummutative, and multiplication associative. To allow for 
+Our mathematics prevent the path which inputs take from effecting the output; addition is cummutative, and multiplication associative. We must in essence make the trajectory of the operation an additional input.
 
-$$ H(A, B; \theta) = I(\theta) + \int_0^B \mathcal{K}(A, B, \theta)dt $$
+Each arithmatic operation will be expressed as a continuous flow over a progress variablt $t$:
+$$ H(A, B; \theta) = I(\theta) + \int_0^B \mathcal{K}(A, t, \theta)dt $$
+Where $\mathcal{K}(A, t, \theta)$ is the interaction kernel, or the instantaneous step size at each moment of the operations unfolding. Unlike standard arithmatic, where $\mathcal{K}$ is constant or linear in $A$, and $t$ plays no role, this dynamic case makes $\mathcal{K}$ a full function of $t$; the step size changes as the operation progresses. When $\mathcal{K}$ varies with $t$, arithmatic becomes path-dependent. The result of $A \oplus B$ is not determined soley by $A$ and $B$; the trajectory the operation takes from $t = 0$ to $t = B$ is just as important.
+
+To comprehend this, imagine oneself driving from point X to point Y. In standard arithmatic, whether or not you speed on the highway or navigate through city streets and country roads does not change the fact that your final destination is point Y. God-Complex breaks the asumption that the final destination is the ultimate goal; the roads taken, and subsequent time delay or fuel mileage, are differentially important. While standard arithmatic focuses on a consistent, predictable output, God-Complex can determine which road combination is most efficient for trip X to Y, and does so by integrating the path taken into the actual output.
+
+Additionally, a dynamic step size does not in fact break backpropagation. By Leibniz's integral rule, as long as $\mathcal{K}$ is differential in $\theta$:
+
+$$ \frac{}{\theta} \int_0^B \mathcal{K}(A, t, \theta) dt = \int_0^B \frac{\mathcal{K}}{\theta}(A, t, \theta) dt $$
 
 
 # Constraints
