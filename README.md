@@ -23,7 +23,7 @@ To comprehend this, imagine oneself driving from point X to point Y. In standard
 
 Additionally, a dynamic step size does not in fact break backpropagation. By Leibniz's integral rule, as long as $\mathcal{K}$ is differential in $\theta$:
 
-$$ \frac{}{\theta} \int_0^B \mathcal{K}(A, t, \theta) dt = \int_0^B \frac{\mathcal{K}}{\theta}(A, t, \theta) dt $$
+$$ \frac{\partial}{\partial \theta} \int_0^B \mathcal{K}(A, t, \theta) dt = \int_0^B \frac{\mathcal{K}}{\theta}(A, t, \theta) dt $$
 
 
 # Constraints
