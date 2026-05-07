@@ -5,6 +5,15 @@ Ongoing research into a neural network which morphs the underlying rules of the 
 Current machine learning is gated by the very properties that made its inception possible: the underlying rules of our universe. I propose that, rather than embedding neural networks into simulated versions of our own mathematical universe, we instead allow the network to bend the very rules we find crutial to our existance to its own will; essentially, creating a neural network which, rather than updating weights, could instead fold the very reality of its mathematical existence to best fit the task. For example, if the task requires, the network could bend the fundamental law of distrubution, or perhaps integrate subtraction into multiplication. Additonally, the network would have full control over the very space in which its neurons are contained within; one task could yeild standard 3-dimensional geometry, and another could be optimized by stretching and curving the distance between neurons continuously, or perhaps something more novel.
 
 
+# Baseline Vaccum (Axiom 0)
+To allow a network to control the very mathematical existence it is contained within, one must first define the scope of its most basic existence. Such an existence would consist of:
+* N-dimensional Euclidean space with a flat metric tensor
+* Standard field axioms (Commutativity, Associativity, Distributivity, Identity, Inverse)
+* Standard chain rule
+* Standard linear accumulation, geometric scaling, symmetry, and inversion
+From here, we must determine how to represent "differential existence" using the mathematics of our own universe. Essentailly, we must build a set of differential functions/equations which represent this basic existence. By grounding these equations in "human" math, it allows one to interpret the meaning and significance of results within our own existing math systems.
+
+
 # Constraints
 Although extreme complexity is the basis of this supposed "God Complex", this complexity comes at a cost. As complexity scales, the neccessity for guardrails does so equally; A network with infinite freedom will experience catastrophic collapse. To prevent the divergence onto a "trivial solution", adequate guardrails must be implemented. Examples of potential guardrails include, but are not limited to:
 * The Principle Of Minimum Action
