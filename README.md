@@ -19,7 +19,7 @@ $$y = \mathcal{T}_{out} \left( \Phi \left( \mathcal{T}_{in}(u), \mathcal{T}_{in}
 
 Where  $u, v$ are the raw input signals, $ \mathcal{T}_{in}$ is the perception warp, $ \Phi$ is the interaction law, and $ \mathcal{T}_{out}$ is the maifestation warp.
 
-Now that we have the basis for the universe
+With the basis of the universe established, we must now 
 
 
 # Constraints
