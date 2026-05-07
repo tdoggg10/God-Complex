@@ -14,7 +14,7 @@ To allow a network to control the very mathematical existence it is contained wi
 
 In order to give the network control over these parameters, however, we must break down arithmatic into a universal, differential function.
 
-$$ \texttt{Output} = I( \theta) + \int_0^B \ mathcal{K}(A, t, \theta) dt$$ 
+$$ \texttt{Output} = I( \theta) + \int_0^B \mathcal{K}(A, t, \theta) dt$$ 
 
 # The Differential Substrate (Axiom 1)
 
