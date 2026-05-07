@@ -1,5 +1,5 @@
 # God-Complex
-Ongoing research into a neural network which morphs the underlying rules of the universe that led to its own creation.
+Ongoing research into a neural network which morphs the underlying rules of the universe in which it exists within.
 
 
 Current machine learning is gated by the very properties that made its inception possible: the underlying rules of our universe. I propose that, rather than embedding neural networks into simulated versions of our own mathematical universe, we instead allow the network to bend the very rules we find crutial to our existance to its own will; essentially, creating a neural network which, rather than updating weights, could instead fold the very reality of its mathematical existence to best fit the task. For example, if the task requires, the network could bend the fundamental law of distrubution, or perhaps integrate subtraction into multiplication. Additonally, the network would have full control over the very space in which its neurons are contained within; one task could yeild standard 3-dimensional geometry, and another could be optimized by stretching and curving the distance between neurons continuously, or perhaps something more novel.
