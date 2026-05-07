@@ -6,18 +6,16 @@ Current machine learning is gated by the very properties that made its inception
 
 
 # Baseline Vaccum (Axiom 0)
-To allow a network to control the very mathematical existence it is contained within, one must first define the scope of its most basic existence. Such an existence would consist of:
+To allow a network to control the very mathematical existence it is contained within, one must first define the scope of its most basic existence. Such an existence follows standard mathematics and would consist of:
 * N-dimensional Euclidean space with a flat metric tensor
 * Standard field axioms (Commutativity, Associativity, Distributivity, Identity, Inverse)
 * Standard chain rule
 * Standard linear accumulation, geometric scaling, symmetry, and inversion
 
-In order to give the network control over these parameters, however, we must break down arithmatic into a universal, differential function.
-
-$$ \texttt{Output} = I( \theta) + \int_0^B \mathcal{K}(A, t, \theta) dt$$ 
-
 # The Differential Substrate (Axiom 1)
+Our mathematics prevent the path which inputs take from effecting the output; addition is cummutative, and multiplication associative. To allow for 
 
+$$ H(A, B; \theta) = I(\theta) + \int_0^B \mathcal{K}(A, B, \theta)dt $$
 
 
 # Constraints
