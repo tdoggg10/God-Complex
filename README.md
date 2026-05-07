@@ -37,14 +37,18 @@ Gradients can still pass cleanly through, desipte the bent arithmatic. The curva
 
 The third row is the dynamic step size, and the stricted generalization. A network which learns at a $t$-dependent kernel has not just chosen a new operation; rather, it has chosen a new geometry of operation.
 
-Existing works, like Neural Arithmatic Logic Units (NLAU, Trask et al. 2018) and Kolmogorov-Arnold Networks (KAN, 2024)
-
 
 # Geometric Morphing (Axiom 2)
 
 
 # Topology Morphing (Axiom 3)
 
+
+# Differential Structure Morphing (Axiom 4)
+
+
+# Algebreic Structure Morphing (Axiom 5)
+While axiom 1 bends the flow of arithmatic operations, axiom 5 bends the algebreic relationships between it; learning how commutitive or associative operations should be. Non-commutivity is already known to be useful (matrix multiplication, quaternions, Lie algebras encode rotation). In essence, the network would learn to which native axioms to violate, and by how much, as a continuous relaxation.
 
 
 # Constraints
