@@ -15,7 +15,7 @@ To allow a network to control the very mathematical existence it is contained wi
 # The Differential Substrate (Axiom 1)
 After defining the scope, the logical next step is to condense said scope into a fundamental equation. Every operation in this supposed universe can be reduced into a singluar transformation of two inputs through rule-space:
 
-$$y = \mathcal{T}_{out} \left( \Phi \left( \mathcal{T}_{in}(u), \mathcal{T}_{in}(v) \right) \right)$$
+#$$y = \mathcal{T}_{out} \left( \Phi \left( \mathcal{T}_{in}(u), \mathcal{T}_{in}(v) \right) \right)$$
 
 1. How can we break down all of these concepts into 1-2 (preferably 1) equation
 2. What parameters would then make said equation(s) fully differentiable?
