@@ -37,6 +37,8 @@ Gradients can still pass cleanly through, desipte the bent arithmatic. The curva
 
 The third row is the dynamic step size, and the stricted generalization. A network which learns at a $t$-dependent kernel has not just chosen a new operation; rather, it has chosen a new geometry of operation.
 
+Existing works, like Neural Arithmatic Logic Units (NLAU, Trask et al. 2018) and Kolmogorov-Arnold Networks (KAN, 2024)
+
 
 
 
