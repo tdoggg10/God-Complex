@@ -26,3 +26,4 @@ It is also important to list potential areas of failure, such as:
 * The Brittle Universe: The network converges onto a set of rules that are too hyperspecific to the training data. Upon a new data point being introduced, they "shatter". The universe lacks general stability.
 * Dimensional Fragmentation: Rather than remaining a smooth manifold, the network tears space into isolated pockets, preventing neurons from communicating. Failure of the homeomorphic constraint.
 * The Zero Energy Stasis: If metabolic tax is too high, the network will freeze in place, as learning is too expensive.
+
