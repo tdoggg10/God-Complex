@@ -1,2 +1,28 @@
 # God-Complex
 Ongoing research into a neural network which morphs the underlying rules of the universe that led to its own creation.
+
+
+Current machine learning is gated by the very properties that made its inception possible: the underlying rules of our universe. I propose that, rather than embedding neural networks into simulated versions of our own mathematical universe, we instead allow the network to bend the very rules we find crutial to our existance to its own will; essentially, creating a neural network which, rather than updating weights, could instead fold the very reality of its mathematical existence to best fit the task. For example, if the task requires, the network could bend the fundamental law of distrubution, or perhaps integrate subtraction into multiplication. Additonally, the network would have full control over the very space in which its neurons are contained within; one task could yeild standard 3-dimensional geometry, and another could be optimized by stretching and curving the distance between neurons continuously, or perhaps something more novel.
+
+
+# Constraints
+Although extreme complexity is the basis of this supposed "God Complex", this complexity comes at a cost. As complexity scales, the neccessity for guardrails does so equally; A network with infinite freedom will experience catastrophic collapse. To prevent the divergence onto a "trivial solution", adequate guardrails must be implemented. Examples of potential guardrails include, but are not limited to:
+* The Principle Of Minimum Action
+* Information Persistence
+
+These guardrails, however, come at a cost. A metabolic tax which drains the network anytime it attempts to break the laws of our universe could inadvertently punish the network for attempting to bend said rules in the first place, limiting exploration potential. Furthermore, although potentially detrimental to network stability, homeomorphic transformations could act as information bottlenecks, or potentially even expanders (as strange as that sounds), which could mathemetaically force specific functionalities onto the network fluidly. Enforcing a homeomorphic regime within the simulated universe would reduce network expression, and, in turn, could prune novel solutions to datasets.
+
+Before diving into this, it is neccessary to adress the deep psychological divide between emergence and pre-existence:
+* Are fundamental laws the ground for universal complexity?
+* Are fundamental laws an inate property of all universes, regardless of complexity?
+* Do universes act as rulesets for the emergence of fundamental laws?
+* Or are fundamental laws merely an interpretation of the rules of a universe?
+
+
+# Potential Modes of Failure
+It is also important to list potential areas of failure, such as:
+* The Trivial Void: the network redefines the correct answer entirely to whatever it is outputting.
+* Axiomic Heat Death: The rules of the universe become too complex; signal to output ratio drops to zero, as the physics are too turbulent.
+* The Brittle Universe: The network converges onto a set of rules that are too hyperspecific to the training data. Upon a new data point being introduced, they "shatter". The universe lacks general stability.
+* Dimensional Fragmentation: Rather than remaining a smooth manifold, the network tears space into isolated pockets, preventing neurons from communicating. Failure of the homeomorphic constraint.
+* The Zero Energy Stasis: If metabolic tax is too high, the network will freeze in place, as learning is too expensive.
