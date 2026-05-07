@@ -12,7 +12,11 @@ To allow a network to control the very mathematical existence it is contained wi
 * Standard chain rule
 * Standard linear accumulation, geometric scaling, symmetry, and inversion
 
-From here, we must determine how to represent "differential existence" using the mathematics of our own universe. Essentailly, we must build a set of differential functions/equations which represent this basic existence. By grounding these equations in "human" math, it allows one to interpret the meaning and significance of results within our own existing math systems.
+$s^n$
+
+# The Differential Substrate (Axiom 1)
+1. How can we break down all of these concepts into 1-2 (preferably 1) equation
+2. What parameters would then make said equation(s) fully differentiable?
 
 
 # Constraints
